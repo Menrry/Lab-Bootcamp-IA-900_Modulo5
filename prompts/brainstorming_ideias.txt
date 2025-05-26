@@ -1,0 +1,2 @@
+Liste 10 ideias inovadoras para um aplicativo de gerenciamento de tarefas em Java, com foco em 
+gamificação e motivação do usuário. Inclua um breve resumo para cada ideia.
